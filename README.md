@@ -50,18 +50,29 @@ A modern, fully functional scientific calculator built using Vite and TypeScript
 ##  Project Structure
 
 scientific-calculator/
+
 │
 ├── index.html
+
 ├── vite.config.ts
+
 ├── tsconfig.json
+
 ├── package.json
+
 │
 └── src/
+
     ├── main.ts
+    
     ├── calculator.ts
+    
     ├── operations.ts
+    
     ├── scientific.ts
+    
     └── style.css
+    
 
 ---
 
@@ -91,14 +102,5 @@ http://localhost:5173
 - Graph plotting mode
 - Calculation history panel
 - Keyboard input support
-- Mobile optimized UI
-- Advanced CASIO-style expression parser
 
 ---
-
-
-
-
-## ⭐ Support
-
-If you like this project, give it a star on GitHub.
