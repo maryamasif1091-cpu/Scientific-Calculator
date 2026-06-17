@@ -1,4 +1,4 @@
-# 🧮 Scientific Calculator (Vite + TypeScript)
+# 🧮 Scientific Calculator
 
 A modern, fully functional scientific calculator built using Vite and TypeScript. It supports advanced mathematical operations with a clean dark UI and real-time expression evaluation similar to a CASIO-style calculator.
 
@@ -20,7 +20,7 @@ A modern, fully functional scientific calculator built using Vite and TypeScript
 ---
 
 ##  Deployment Link
-
+https://scientific-calculator-rust-omega.vercel.app/
 
 ---
 
