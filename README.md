@@ -47,35 +47,6 @@ A modern, fully functional scientific calculator built using Vite and TypeScript
 
 ---
 
-##  Project Structure
-
-scientific-calculator/
-
-│
-├── index.html
-
-├── vite.config.ts
-
-├── tsconfig.json
-
-├── package.json
-
-│
-└── src/
-
-    ├── main.ts
-    
-    ├── calculator.ts
-    
-    ├── operations.ts
-    
-    ├── scientific.ts
-    
-    └── style.css
-    
-
----
-
 ##  Installation & Setup
 
 1. Clone repository:
@@ -94,8 +65,6 @@ npm run dev
 http://localhost:5173
 
 ---
-
-
 
 ##  Future Improvements
 
